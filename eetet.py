@@ -1,1 +1,0 @@
-print("tamim is a b boy")
